@@ -23,6 +23,7 @@ public class LoginFilter implements Filter {
 
     private String VERIFY_URL;
 
+
     private String APPLICATION_SERVER;
 
     public void init(FilterConfig filterConfig) throws ServletException {
