@@ -25,7 +25,6 @@ public class LoginFilter implements Filter {
 
     private String APPLICATION_SERVER;
 
-
     public void init(FilterConfig filterConfig) throws ServletException {
         SSO_BASE_URL = filterConfig.getInitParameter("SSO_BASE_URL");
         LOGIN_PAGE_URL = "/loginPage";
