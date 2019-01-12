@@ -1,0 +1,5 @@
+#忽略.iml结尾文件
+*.iml
+#忽略class文件
+*.class
+/.idea
