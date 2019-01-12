@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="activemq-provider:war">
-    <output-path>$PROJECT_DIR$/../activemq-provider/target</output-path>
-    <root id="archive" name="activemq-provider.war">
-      <element id="artifact" artifact-name="activemq-provider:war exploded" />
-    </root>
-  </artifact>
-</component>

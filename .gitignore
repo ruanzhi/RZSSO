@@ -1,23 +1,15 @@
 #忽略.iml结尾文件
 *.iml
-#忽略class文件
-*.class
 /.idea
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+/ApplicationSSODemo1/.idea/
+/ApplicationSSODemo1/target/
+/ApplicationSSODemo1/*.iml
+/ApplicationSSODemo2/.idea/
+/ApplicationSSODemo2/target/
+/ApplicationSSODemo2/*.iml
+/SpringbootSSODemo/target/
+/SpringbootSSODemo/.idea/
+/SpringbootSSODemo/*.iml
+/SSOClientCore/target
+/SSOClientCore/.idea
+/SSOClientCore/*.iml
