@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootSSODemo Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: as
+Implementation-Vendor-Id: com.rz.sso
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_121
+Main-Class: ${start-class}
+
